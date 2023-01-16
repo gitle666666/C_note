@@ -1,0 +1,5 @@
+﻿  game.c
+  main.c
+D:\C_sourcecode\project1\practice_1_16\practice_1_16\main.c(37,14): warning C4013: “IsWin”未定义；假设外部返回 int
+  正在生成代码...
+  practice_1_16.vcxproj -> D:\C_sourcecode\project1\practice_1_16\Debug\practice_1_16.exe
